@@ -6,8 +6,8 @@ Initial macOS Support|OS X 10.6.7, Snow Leopard.
 Note 1|Sandy Bridge's iGPU is only officially supported up-to macOS 10.13.
 Note 2|Most Sandy bridge boards do not support UEFI.
 
-- Opencore version: 0.7.9
-- Release date: 07/03/2022
+- Opencore version: 0.8.0
+- Release date: 04/04/2022
 
 # Basic Steps
 
